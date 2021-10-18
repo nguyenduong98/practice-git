@@ -1,2 +1,2 @@
 let title = 'Home Page'
-print(title)
+console.log(title)
